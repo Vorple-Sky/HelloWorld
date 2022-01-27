@@ -14,7 +14,7 @@ function draw() {
   background(0);
 
   fill(225,0,100);
-  text('Hello, World', width/2, height/2);
+  text('Hello, World', width/2, 150);
   text('Hello, USF', width/2, height/2 + 100);
 
 }
