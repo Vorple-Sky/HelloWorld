@@ -13,7 +13,7 @@ function setup() {
 function draw() {
   background(0);
 
-  fill(225,0,100);
+  fill(140,0,100);
   text('Hello, World', width/2, 150);
   text('Hello, USF', width/2, height/2 + 100);
 
